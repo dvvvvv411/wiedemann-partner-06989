@@ -8,6 +8,24 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
     port: 8080,
+    cors: {
+      origin: [
+        'https://merits-partner.de',
+        'https://www.merits-partner.de'
+      ],
+      credentials: true
+    }
+  },
+  preview: {
+    host: "::",
+    port: 8080,
+    cors: {
+      origin: [
+        'https://merits-partner.de',
+        'https://www.merits-partner.de'
+      ],
+      credentials: true
+    }
   },
   plugins: [
     react(),
