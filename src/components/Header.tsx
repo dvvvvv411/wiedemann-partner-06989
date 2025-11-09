@@ -42,7 +42,7 @@ const Header = () => {
               <img 
                 src="/merits-logo-white.png"
                 alt="MERiTS Kanzlei Logo"
-                className="h-12 w-auto"
+                className="h-16 w-auto"
               />
             </Link>
           </div>

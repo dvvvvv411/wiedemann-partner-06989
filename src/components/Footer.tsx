@@ -34,7 +34,7 @@ const Footer = () => {
             <img 
               src="/merits-logo-white.png"
               alt="MERiTS Kanzlei Logo"
-              className="h-12 w-auto"
+              className="h-16 w-auto"
             />
           </div>
             <p className="text-blue-100 leading-relaxed mb-4">
