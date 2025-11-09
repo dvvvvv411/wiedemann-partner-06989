@@ -32,7 +32,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
           <div className="mb-6">
             <img 
-              src="/lovable-uploads/eddb595d-6628-4214-a26e-073beddf6e65.png"
+              src="/merits-logo-white.png"
               alt="MERiTS Kanzlei Logo"
               className="h-12 w-auto"
             />
