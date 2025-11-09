@@ -112,10 +112,10 @@ const NewsArticle2 = () => {
               <p>
                 Für die Einschätzung sämtlicher datenschutzrelevanter Informationen stehen wir Ihnen unkompliziert und vertrauensvoll per E-Mail unter{" "}
                 <a 
-                  href="mailto:info@kbs-kanzlei.de" 
+                  href="mailto:info@merits-partner.de" 
                   className="text-[#004595] hover:underline font-medium"
                 >
-                  info@kbs-kanzlei.de
+                  info@merits-partner.de
                 </a>
                 {" "}oder telefonisch zur Verfügung.
               </p>

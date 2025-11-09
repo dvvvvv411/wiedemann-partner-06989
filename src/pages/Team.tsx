@@ -22,38 +22,31 @@ const Team = () => {
   const teamMembers = [
     {
       id: 1,
-      name: "Dr. Torsten Alexander Küpper",
-      email: "t.kuepper@kbs-kanzlei.de",
+      name: "Damaris Kosack",
+      email: "d.kosack@merits-partner.de",
       areas: ["Insolvenzrecht", "Steuerrecht"],
       image: "/lovable-uploads/8a903cc8-6180-44ca-aa29-51d0c215b56d.png"
     },
     {
       id: 2,
-      name: "Stefan Bredehöft",
-      email: "s.bredehoeft@kbs-kanzlei.de",
+      name: "Christian Albert Ehlenz",
+      email: "c.ehlenz@merits-partner.de",
       areas: ["Grundstücksrecht", "Kaufrecht"],
       image: "/lovable-uploads/1baa43dd-bffa-494b-ae03-8e8c2abfb724.png"
     },
     {
       id: 3,
-      name: "Mark Steh",
-      email: "m.steh@kbs-kanzlei.de",
+      name: "Nils H. Kutter",
+      email: "n.kutter@merits-partner.de",
       areas: ["Maklerrecht", "Sozialrecht", "Insolvenzrecht"],
       image: "/lovable-uploads/6b7dabf1-de18-49fa-9cab-947e0f3c88aa.png"
     },
     {
       id: 4,
       name: "Anna Weber",
-      email: "a.weber@kbs-kanzlei.de",
-      areas: ["Vertragsrecht", "Verwaltungsrecht"],
+      email: "verwaltung@merits-partner.de",
+      areas: ["Sekretariat", "Verwaltung"],
       image: "/lovable-uploads/46aec5ad-fbe3-406d-b9d1-4155a55ef8b1.png"
-    },
-    {
-      id: 5,
-      name: "Michael Klein",
-      email: "m.klein@kbs-kanzlei.de",
-      areas: ["Wettbewerbsrecht", "Grundstücksrecht"],
-      image: "/lovable-uploads/5a61c3c4-7199-4a3b-b8e7-285bdfae72b5.png"
     }
   ];
 
@@ -145,7 +138,7 @@ const Team = () => {
               </h2>
               <p className="text-xl text-blue-100 mb-8 leading-relaxed">
                 Suchen Sie eine Karriere mit Perspektive? Verstärken Sie unser Expertenteam und gestalten Sie die Zukunft 
-                einer der innovativsten Kanzleien Düsseldorfs aktiv mit.
+                einer der innovativsten Kanzleien Frankfurts aktiv mit.
               </p>
               <Button asChild size="lg" variant="secondary" className="bg-white text-blue-600 hover:bg-blue-50">
                 <Link to="/stellenangebote" className="inline-flex items-center">

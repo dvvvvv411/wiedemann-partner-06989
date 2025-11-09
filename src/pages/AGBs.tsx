@@ -23,7 +23,7 @@ const AGBs = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">§ 1 Geltungsbereich</h2>
             <div className="text-muted-foreground leading-relaxed space-y-2">
-              <p>Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Rechts- und Steuerberatungsleistungen der Kanzlei KBS Kanzlei. Sie werden Bestandteil aller Verträge über die Erbringung anwaltlicher und steuerberatender Leistungen.</p>
+              <p>Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Rechts- und Steuerberatungsleistungen der Kanzlei MERiTS Kanzlei. Sie werden Bestandteil aller Verträge über die Erbringung anwaltlicher und steuerberatender Leistungen.</p>
               <p>Entgegenstehende oder abweichende Bedingungen des Mandanten werden nur dann Vertragsbestandteil, wenn wir diesen ausdrücklich schriftlich zustimmt haben.</p>
             </div>
           </section>
@@ -100,7 +100,7 @@ const AGBs = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">§ 10 Schlussbestimmungen</h2>
             <div className="text-muted-foreground leading-relaxed space-y-2">
-              <p>Es gilt deutsches Recht. Erfüllungsort und Gerichtsstand ist Düsseldorf, sofern der Mandant Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.</p>
+              <p>Es gilt deutsches Recht. Erfüllungsort und Gerichtsstand ist Frankfurt am Main, sofern der Mandant Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.</p>
               <p>Sollten einzelne Bestimmungen dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.</p>
               <p>Änderungen und Ergänzungen dieser AGB bedürfen der Schriftform.</p>
             </div>

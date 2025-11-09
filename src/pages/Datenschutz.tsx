@@ -69,11 +69,11 @@ const Datenschutz = () => {
                 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
               </p>
               <div className="text-muted-foreground leading-relaxed">
-                <p>KBS Rechtsanwälte Küpper Bredehöft Schwencker PartG</p>
-                <p>Speldorfer Str. 2</p>
-                <p>40239 Düsseldorf</p>
-                <p>Telefon: +49 211 54262200</p>
-                <p>E-Mail: info@kbs-kanzlei.de</p>
+                <p>MERiTS Partnerschaft von Rechtsanwälten mbB PartG</p>
+                <p>Wolfsgangstr. 35</p>
+                <p>60322 Frankfurt a. Main</p>
+                <p>Telefon: (069) 870038470</p>
+                <p>E-Mail: info@merits-partner.de</p>
               </div>
               
               <h3 className="text-xl font-semibold text-foreground">Widerruf Ihrer Einwilligung zur Datenverarbeitung</h3>

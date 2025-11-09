@@ -30,13 +30,13 @@ const Footer = () => {
         <div className="grid grid-cols-1 lg:grid-cols-6 gap-12 mb-12">
           {/* Brand Section */}
           <div className="lg:col-span-2">
-            <div className="mb-6">
-              <img 
-                src="/lovable-uploads/eddb595d-6628-4214-a26e-073beddf6e65.png"
-                alt="KBS Kanzlei Logo"
-                className="h-12 w-auto"
-              />
-            </div>
+          <div className="mb-6">
+            <img 
+              src="/lovable-uploads/eddb595d-6628-4214-a26e-073beddf6e65.png"
+              alt="MERiTS Kanzlei Logo"
+              className="h-12 w-auto"
+            />
+          </div>
             <p className="text-blue-100 leading-relaxed mb-4">
               Eine starke Unterstützung, wann immer Sie sie brauchen. Komplette Rechts- und Steuerberatung für Ihre Bedürfnisse.
             </p>
@@ -105,7 +105,7 @@ const Footer = () => {
             {/* Copyright and Cookie Settings */}
             <div className="flex flex-col lg:flex-row items-center gap-4 text-sm">
               <div className="text-blue-100">
-                © 2025 KBS Kanzlei. Alle Rechte vorbehalten.
+                © 2025 MERiTS Kanzlei. Alle Rechte vorbehalten.
               </div>
               <button
                 onClick={() => {

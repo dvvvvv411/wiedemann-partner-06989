@@ -41,7 +41,7 @@ const Header = () => {
             <Link to="/">
               <img 
                 src="/lovable-uploads/eddb595d-6628-4214-a26e-073beddf6e65.png"
-                alt="KBS Kanzlei Logo"
+                alt="MERiTS Kanzlei Logo"
                 className="h-12 w-auto"
               />
             </Link>

@@ -23,18 +23,18 @@ const Impressum = () => {
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Angaben gemäß § 5 TMG</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p className="font-semibold text-foreground">KBS Rechtsanwälte Küpper Bredehöft Schwencker PartG</p>
-              <p>Speldorfer Str. 2</p>
-              <p>40239 Düsseldorf</p>
+              <p className="font-semibold text-foreground">MERiTS Partnerschaft von Rechtsanwälten mbB PartG</p>
+              <p>Wolfsgangstr. 35</p>
+              <p>60322 Frankfurt a. Main</p>
             </div>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Kontakt</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Telefon: +49 211 54262200</p>
-              <p>Fax: +49 211 54262201</p>
-              <p>E-Mail: info@kbs-kanzlei.de</p>
+              <p>Telefon: (069) 870038470</p>
+              <p>Fax: (069) 870038471</p>
+              <p>E-Mail: info@merits-partner.de</p>
             </div>
           </section>
 
@@ -42,7 +42,8 @@ const Impressum = () => {
             <h2 className="text-2xl font-bold text-primary">Berufsbezeichnung und berufsrechtliche Regelungen</h2>
             <div className="text-muted-foreground leading-relaxed space-y-2">
               <p>Berufsbezeichnung: Rechtsanwalt (verliehen in der Bundesrepublik Deutschland)</p>
-              <p>Zuständige Kammer: Rechtsanwaltskammer Düsseldorf</p>
+              <p>Zuständige Kammer: Amtsgericht Frankfurt am Main</p>
+              <p>Registernummer: PR 3205</p>
               <p>Berufsrechtliche Regelungen: Bundesrechtsanwaltsordnung (BRAO), Berufsordnung für Rechtsanwälte (BORA), Rechtsanwaltsvergütungsgesetz (RVG), Fachanwaltsordnung (FAO)</p>
               <p>Diese Regelungen können eingesehen werden unter: <a href="http://www.brak.de" className="text-primary hover:underline">www.brak.de</a></p>
             </div>
@@ -52,18 +53,18 @@ const Impressum = () => {
             <h2 className="text-2xl font-bold text-primary">Umsatzsteuer-ID</h2>
             <div className="text-muted-foreground leading-relaxed">
               <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:</p>
-              <p>DE599707840</p>
+              <p>DE472164342</p>
             </div>
           </section>
 
           <section className="space-y-4">
             <h2 className="text-2xl font-bold text-primary">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
             <div className="text-muted-foreground leading-relaxed">
-              <p>Torsten Küpper</p>
-              <p>Stefan Bredehöft</p>
-              <p>Marcus Schwencker</p>
-              <p>Speldorfer Str. 2</p>
-              <p>40239 Düsseldorf</p>
+              <p>Christian Albert Ehlenz</p>
+              <p>Damaris Kosack</p>
+              <p>Nils H. Kutter</p>
+              <p>Wolfsgangstr. 35</p>
+              <p>60322 Frankfurt a. Main</p>
             </div>
           </section>
 

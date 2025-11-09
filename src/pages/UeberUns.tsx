@@ -10,7 +10,7 @@ const UeberUns = () => {
       
       <StandardHero
         title="Über uns"
-        description="Seit 2019 stehen wir für exzellente Rechtsberatung im Herzen Düsseldorfs. Erfahren Sie mehr über unsere Werte, unsere Expertise und unseren Anspruch an erstklassigen Service."
+        description="Seit 2019 stehen wir für exzellente Rechtsberatung im Herzen Frankfurts. Erfahren Sie mehr über unsere Werte, unsere Expertise und unseren Anspruch an erstklassigen Service."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Über uns" }
@@ -22,10 +22,10 @@ const UeberUns = () => {
         <div className="w-full max-w-7xl mx-auto px-8">
           <div className="text-center max-w-5xl mx-auto">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-8 leading-tight">
-              Ihre Rechtsexperten im Zentrum der Kaiserstadt
+              Ihre Rechtsexperten in der Finanzmetropole Deutschlands
             </h2>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              Strategische Rechtsberatung auf höchstem Niveau - persönlich, effizient und mit dem tiefen Verständnis für die Anforderungen moderner Mandanten in Düsseldorf und darüber hinaus.
+              Strategische Rechtsberatung auf höchstem Niveau - persönlich, effizient und mit dem tiefen Verständnis für die Anforderungen moderner Mandanten in Frankfurt am Main und darüber hinaus.
             </p>
           </div>
         </div>
@@ -36,14 +36,14 @@ const UeberUns = () => {
         <div className="w-full max-w-7xl mx-auto px-8">
           <div className="text-foreground text-lg leading-relaxed space-y-6 max-w-5xl mx-auto">
             <p>
-              Was 2019 als Vision begann, ist heute Realität: KBS Kanzlei hat sich zu einer führenden Kanzlei mit hochspezialisierten Rechtsexperten entwickelt, die deutschlandweit Mandanten betreuen.
+              Was 2019 als Vision begann, ist heute Realität: MERiTS Kanzlei hat sich zu einer führenden Kanzlei mit hochspezialisierten Rechtsexperten entwickelt, die deutschlandweit Mandanten betreuen.
             </p>
             <p>
               Unser Team vereint fünf erfahrene Rechtsanwältinnen und Rechtsanwälte mit ausgewiesener Fachkompetenz und Fachanwaltstitel.
               Ergänzt wird diese Expertise durch unsere erfahrenen Steuerberater und spezialisierten Fachangestellten.
               Diese Vielfalt an Fachkenntnissen ermöglicht es uns, nahezu jede rechtliche oder steuerliche Herausforderung erfolgreich zu meistern.
               Mit hunderten erfolgreich abgeschlossenen Mandaten pro Jahr setzen wir neue Maßstäbe in der Kanzleiarbeit.
-              Sie finden uns zentral und gut erreichbar in Düsseldorf, Speldorfer Str. 2.
+              Sie finden uns zentral und gut erreichbar in Frankfurt am Main, Wolfsgangstr. 35.
             </p>
             
             <h3 className="text-2xl font-bold text-foreground pt-6">
@@ -51,15 +51,15 @@ const UeberUns = () => {
             </h3>
             
             <p>
-              „Exzellenz entsteht nur dort, wo Leidenschaft auf Kompetenz trifft." Diese Philosophie prägt jeden Tag unserer Arbeit bei KBS Kanzlei.
+              „Exzellenz entsteht nur dort, wo Leidenschaft auf Kompetenz trifft." Diese Philosophie prägt jeden Tag unserer Arbeit bei MERiTS Kanzlei.
             </p>
             
             <p>
-              Unser Team besteht aus überzeugten Juristen, die bewusst den Weg der spezialisierten Beratung gewählt haben. Obwohl unsere Qualifikationen auch andere Karrierewege ermöglicht hätten, haben wir uns für KBS Kanzlei entschieden - weil hier unsere Vision von erstklassiger Rechtsberatung Realität wird.
+              Unser Team besteht aus überzeugten Juristen, die bewusst den Weg der spezialisierten Beratung gewählt haben. Obwohl unsere Qualifikationen auch andere Karrierewege ermöglicht hätten, haben wir uns für MERiTS Kanzlei entschieden - weil hier unsere Vision von erstklassiger Rechtsberatung Realität wird.
             </p>
             
             <p>
-              Diese innere Überzeugung spiegelt sich in unserem unermüdlichen Einsatz für Mandanten wider, in der juristischen Präzision unserer Arbeit und in unserem Anspruch, stets die bestmöglichen Ergebnisse zu erzielen. Das sind die Werte, die KBS Kanzlei täglich zum Leben erweckt.
+              Diese innere Überzeugung spiegelt sich in unserem unermüdlichen Einsatz für Mandanten wider, in der juristischen Präzision unserer Arbeit und in unserem Anspruch, stets die bestmöglichen Ergebnisse zu erzielen. Das sind die Werte, die MERiTS Kanzlei täglich zum Leben erweckt.
             </p>
           </div>
         </div>
@@ -73,11 +73,11 @@ const UeberUns = () => {
               Innovation trifft auf bewährte Expertise
             </h2>
             <p className="text-xl text-white/90 leading-relaxed">
-              KBS Kanzlei verbindet traditionelle Rechtsexpertise mit modernster Technologie. Unsere digitale Kanzleiführung ermöglicht es uns, effizienter zu arbeiten und bessere Ergebnisse für unsere Mandanten zu erzielen.
+              MERiTS Kanzlei verbindet traditionelle Rechtsexpertise mit modernster Technologie. Unsere digitale Kanzleiführung ermöglicht es uns, effizienter zu arbeiten und bessere Ergebnisse für unsere Mandanten zu erzielen.
             </p>
             <br />
             <p className="text-xl text-white/90 leading-relaxed">
-              Von Beginn an haben wir auf vollständige Digitalisierung gesetzt: intelligente Wissensdatenbanken, papierlose Prozesse und modernste Kommunikationstechnologie. Diese Infrastruktur ermöglicht uns flexible Arbeitsmodelle und schnelle Reaktionszeiten. So verbinden wir die Vorteile einer Düsseldorfer Präsenzkanzlei mit der Effizienz digitaler Arbeitsweisen - für eine Mandantenbetreuung, die neue Standards setzt.
+              Von Beginn an haben wir auf vollständige Digitalisierung gesetzt: intelligente Wissensdatenbanken, papierlose Prozesse und modernste Kommunikationstechnologie. Diese Infrastruktur ermöglicht uns flexible Arbeitsmodelle und schnelle Reaktionszeiten. So verbinden wir die Vorteile einer Frankfurter Präsenzkanzlei mit der Effizienz digitaler Arbeitsweisen - für eine Mandantenbetreuung, die neue Standards setzt.
             </p>
           </div>
         </div>
@@ -88,7 +88,7 @@ const UeberUns = () => {
         <div className="w-full max-w-7xl mx-auto px-8">
           <div className="max-w-5xl mx-auto">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mb-12 text-center leading-tight">
-              Was KBS Kanzlei einzigartig macht
+              Was MERiTS Kanzlei einzigartig macht
             </h2>
             
             <div className="space-y-6">
@@ -96,7 +96,7 @@ const UeberUns = () => {
                 "Umfassende Expertise: Wir bieten Ihnen erstklassige rechtliche und steuerliche Beratung auf höchstem Niveau - unabhängig von der Komplexität Ihres Anliegens.",
                 "Qualität ohne Kompromisse: Unsere spezialisierte Beratung steht den renommiertesten Großkanzleien in nichts nach - mit dem Vorteil persönlicher Betreuung.",
                 "Synergien nutzen: Unser vernetztes Expertenteam stellt sicher, dass für Ihren Fall immer der optimale Spezialist zur Verfügung steht - effizient und zielgerichtet.",
-                "Praxisnahe Lösungen: Unsere Beratung ist niemals abstrakt. Als Düsseldorfer sind wir fest verwurzelt, verstehen reale Herausforderungen und entwickeln pragmatische Lösungen mit echtem Mehrwert.",
+                "Praxisnahe Lösungen: Unsere Beratung ist niemals abstrakt. Als Frankfurter sind wir fest verwurzelt, verstehen reale Herausforderungen und entwickeln pragmatische Lösungen mit echtem Mehrwert.",
                 "Leidenschaft für Erfolg: Jedes Mitglied unseres Teams - von Rechtsanwälten über Steuerberater bis hin zu Fachangestellten - brennt für erstklassige Ergebnisse. Diese Hingabe sehen Sie an unserem Erfolg für Sie."
               ].map((point, index) => (
                 <div key={index} className="flex items-start gap-4">

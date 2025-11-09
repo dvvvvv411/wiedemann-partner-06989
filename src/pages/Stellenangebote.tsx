@@ -90,7 +90,7 @@ const Stellenangebote = () => {
                   <Briefcase className="w-5 h-5 text-blue-600 mt-0.5 flex-shrink-0" />
                   <span>Rechtsanwalt (m/w/d) - Wirtschaftsrecht</span>
                 </CardTitle>
-                <CardDescription className="text-sm sm:text-base">Vollzeit | Unbefristet | Düsseldorf</CardDescription>
+                <CardDescription className="text-sm sm:text-base">Vollzeit | Unbefristet | Frankfurt am Main</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4 text-sm sm:text-base leading-relaxed">
@@ -111,7 +111,7 @@ const Stellenangebote = () => {
                   <Briefcase className="w-5 h-5 text-blue-600 mt-0.5 flex-shrink-0" />
                   <span>Steuerberater (m/w/d)</span>
                 </CardTitle>
-                <CardDescription className="text-sm sm:text-base">Vollzeit | Unbefristet | Düsseldorf</CardDescription>
+                <CardDescription className="text-sm sm:text-base">Vollzeit | Unbefristet | Frankfurt am Main</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4 text-sm sm:text-base leading-relaxed">
@@ -132,7 +132,7 @@ const Stellenangebote = () => {
                   <Briefcase className="w-5 h-5 text-blue-600 mt-0.5 flex-shrink-0" />
                   <span>Rechtsanwaltsfachangestellte (m/w/d)</span>
                 </CardTitle>
-                <CardDescription className="text-sm sm:text-base">Vollzeit | Unbefristet | Düsseldorf</CardDescription>
+                <CardDescription className="text-sm sm:text-base">Vollzeit | Unbefristet | Frankfurt am Main</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4 text-sm sm:text-base leading-relaxed">
@@ -153,7 +153,7 @@ const Stellenangebote = () => {
                   <Briefcase className="w-5 h-5 text-blue-600 mt-0.5 flex-shrink-0" />
                   <span>Praktikant Rechtswissenschaften (m/w/d)</span>
                 </CardTitle>
-                <CardDescription className="text-sm sm:text-base">3-6 Monate | Befristet | Düsseldorf</CardDescription>
+                <CardDescription className="text-sm sm:text-base">3-6 Monate | Befristet | Frankfurt am Main</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-gray-600 mb-4 text-sm sm:text-base leading-relaxed">

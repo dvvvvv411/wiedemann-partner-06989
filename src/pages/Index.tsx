@@ -13,7 +13,7 @@ import { useDocumentTitle } from "../hooks/useDocumentTitle";
 const Index = () => {
   const features = [
     "Über 15 Jahre Expertise",
-    "Düsseldorf",
+    "Frankfurt am Main",
     "Schnelle Lösungen",
     "Digitale Kanzlei"
   ];
@@ -45,7 +45,7 @@ const Index = () => {
     </svg>
   );
 
-  useDocumentTitle("KBS Kanzlei - Ihre Rechtsexperten in Düsseldorf");
+  useDocumentTitle("MERiTS Kanzlei - Ihre Rechtsexperten in Frankfurt am Main");
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-background via-background to-accent/20 pt-20">
@@ -72,7 +72,7 @@ const Index = () => {
               {/* Company Name */}
               <div className="space-y-2">
                 <p className="text-lg text-muted-foreground font-medium tracking-wide uppercase">
-                  KBS Kanzlei
+                  MERiTS Kanzlei
                 </p>
                 <div className="w-16 h-1 bg-[#004595] rounded"></div>
               </div>
@@ -80,7 +80,7 @@ const Index = () => {
               {/* Main Headlines */}
               <div className="space-y-4 md:space-y-6">
                 <h1 className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold text-foreground leading-tight">
-                  Ihre <span className="text-[#004595]">Rechtsexperten</span> in Düsseldorf
+                  Ihre <span className="text-[#004595]">Rechtsexperten</span> in Frankfurt am Main
                 </h1>
                 
                 <p className="text-lg md:text-xl lg:text-2xl text-muted-foreground font-medium leading-relaxed">
@@ -130,7 +130,7 @@ const Index = () => {
                 <div className="relative w-full h-full rounded-lg overflow-hidden shadow-xl md:shadow-2xl ring-1 ring-black/10">
                   <img 
                     src={heroImage} 
-                    alt="Professionelle Anwaltskanzlei - KBS Kanzlei"
+                    alt="Professionelle Anwaltskanzlei - MERiTS Kanzlei"
                     className="w-full h-full object-cover"
                   />
                   {/* Professional overlay */}
@@ -148,7 +148,7 @@ const Index = () => {
         <div className="w-full max-w-7xl mx-auto px-4 md:px-8 h-full flex flex-col justify-center py-12 md:py-16">
           {/* Section Title */}
           <h2 className="text-xl md:text-2xl lg:text-3xl xl:text-4xl font-bold text-white text-center mb-8 md:mb-12 leading-tight max-w-4xl mx-auto px-2">
-            Ihr vertrauensvoller Partner für Recht und Steuern im Herzen Düsseldorfs
+            Ihr vertrauensvoller Partner für Recht und Steuern im Herzen Frankfurts
           </h2>
 
           {/* Two Column Layout - Mobile Responsive */}
@@ -159,7 +159,7 @@ const Index = () => {
               <div className="w-full max-w-xl h-full flex items-center">
                 <img 
                   src={partnerImage} 
-                  alt="KBS Kanzlei Team"
+                  alt="MERiTS Kanzlei Team"
                   className="w-full h-auto max-h-[500px] object-contain"
                 />
               </div>
@@ -169,13 +169,13 @@ const Index = () => {
             <div className="space-y-4 md:space-y-6 h-full flex flex-col justify-center">
               <div className="text-white/90 text-sm md:text-base leading-relaxed space-y-3 md:space-y-4">
                 <p>
-                  Bei KBS Kanzlei verbinden wir juristische Expertise mit moderner Beratung. Unsere Mandanten profitieren von über 15 Jahren Erfahrung in komplexen Rechts- und Steuerangelegenheiten.
+                  Bei MERiTS Kanzlei verbinden wir juristische Expertise mit moderner Beratung. Unsere Mandanten profitieren von über 15 Jahren Erfahrung in komplexen Rechts- und Steuerangelegenheiten.
                 </p>
                 <p>
                   Wir entwickeln strategische Lösungen, die Ihre Interessen optimal schützen und Ihre Ziele verwirklichen. Dabei setzen wir auf persönliche Betreuung, transparente Kommunikation und nachhaltige Ergebnisse.
                 </p>
                 <p className="hidden md:block">
-                  Von unserem Standort in Düsseldorf aus betreuen wir Mandanten deutschlandweit - mit der Kombination aus lokaler Präsenz und digitaler Effizienz.
+                  Von unserem Standort in Frankfurt am Main aus betreuen wir Mandanten deutschlandweit - mit der Kombination aus lokaler Präsenz und digitaler Effizienz.
                 </p>
               </div>
 
@@ -252,10 +252,10 @@ const Index = () => {
               {/* Title - Centered */}
               <div className="space-y-4 text-center">
                 <h2 className="text-2xl md:text-3xl lg:text-4xl font-semibold text-[#002d4a]">
-                  Karriere bei KBS Kanzlei
+                  Karriere bei MERiTS Kanzlei
                 </h2>
                 <p className="text-xl text-muted-foreground leading-relaxed">
-                  Werden Sie Teil unseres Erfolgs. Wir bieten Ihnen eine Karriere mit Perspektive in einer der modernsten Kanzleien Düsseldorfs.
+                  Werden Sie Teil unseres Erfolgs. Wir bieten Ihnen eine Karriere mit Perspektive in einer der modernsten Kanzleien Frankfurts.
                 </p>
               </div>
 
@@ -265,7 +265,7 @@ const Index = () => {
                   "Moderne Arbeitsplätze",
                   "Flexible Arbeitsmodelle", 
                   "Fortbildungsmöglichkeiten",
-                  "Düsseldorf",
+                  "Frankfurt am Main",
                   "Dynamisches Expertenteam"
                 ].map((feature, index) => (
                   <div key={index} className="flex items-center gap-3 p-3 bg-white rounded-lg border border-gray-200/50 hover:bg-gray-50 hover:shadow-md transition-all duration-300 group flex-shrink-0">

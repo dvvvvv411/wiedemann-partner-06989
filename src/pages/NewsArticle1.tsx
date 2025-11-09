@@ -135,7 +135,7 @@ const NewsArticle1 = () => {
               </p>
               
               <p>
-                Alternativ können Sie uns jedoch auch direkt kontaktieren, um einen persönlichen oder auch einen Telefon-Termin zu vereinbaren oder um uns sonstige Fragen zu stellen. Als Full Service-Kanzlei deckt die Beratung von KBS Kanzlei nicht nur die gesamte Bandbreite des IT-Rechts sowie Datenschutzrechts ab, sondern auch die Vertretung von Mandanten in Gerichtsverfahren.
+                Alternativ können Sie uns jedoch auch direkt kontaktieren, um einen persönlichen oder auch einen Telefon-Termin zu vereinbaren oder um uns sonstige Fragen zu stellen. Als Full Service-Kanzlei deckt die Beratung von MERiTS Kanzlei nicht nur die gesamte Bandbreite des IT-Rechts sowie Datenschutzrechts ab, sondern auch die Vertretung von Mandanten in Gerichtsverfahren.
               </p>
             </div>
           </div>
