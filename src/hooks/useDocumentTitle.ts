@@ -12,5 +12,5 @@ export const useDocumentTitle = (title: string) => {
 };
 
 export const formatPageTitle = (pageTitle: string) => {
-  return `${pageTitle} | KBS Kanzlei - Rechtsanwälte Düsseldorf`;
+  return `${pageTitle} | MERiTS Kanzlei - Rechtsanwälte Frankfurt am Main`;
 };

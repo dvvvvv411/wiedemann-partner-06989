@@ -124,12 +124,12 @@ const NewsArticle1 = () => {
               <p className="mb-4">
                 Sollten auch Sie von einem Kreditkartenbetrug betroffen sein, können Sie sich direkt und unkompliziert über unsere digitale Mandatsannahme – abrufbar unter{" "}
                 <a 
-                  href="https://dima.kbs-kanzlei.de/allgemeine-mandatsannahme" 
+                  href="https://dima.merits-partner.de/allgemeine-mandatsannahme" 
                   className="text-[#004595] hover:underline font-medium"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  https://dima.kbs-kanzlei.de/allgemeine-mandatsannahme
+                  https://dima.merits-partner.de/allgemeine-mandatsannahme
                 </a>
                 {" "}– vertrauensvoll an uns wenden.
               </p>
